@@ -1,0 +1,17 @@
+Please create a new repo with newly generated ssh keypairs.
+
+Git
+1. .gitignore file. Create and add to repo.
+2. README.md file. Create, describe the project and add to repo.
+3. Please create answers.txt with answers for next questions:
+===GIT===
+- git init
+- git add [-A, .]
+- git commit [-m, --amend]
+- git branch [-r, -D <branch>]
+- git pull
+- git fetch
+- git push [-ff]
+- git rebase [--no-ff]
+- git merge
+
